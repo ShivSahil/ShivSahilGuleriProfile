@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Hybrid framework
+description: Tutorials for a combination of the DataDriven and KeywordDriven approaches.
 img:
-importance: 4
-category: fun
+redirect: https://www.youtube.com/watch?v=35WMktbUl90&list=PL3Yh9PwrCXSbtJ8YdqfsksilPSD216Cw0
+importance: 1
+category: youtube tutorials
 ---
 
 Every project has a beautiful feature showcase page.

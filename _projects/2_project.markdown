@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Cucumber Advance
+description: Here cucumber framework and reporting are implemented further.
+img:
+redirect: https://github.com/ShivSahil/cucumberAdvance
 importance: 2
-category: work
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: SoapUI
+description: It contains Soap and Rest based projects
 img:
-importance: 3
-category: fun
+redirect: https://github.com/ShivSahil/SoapUI
+importance: 4
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.

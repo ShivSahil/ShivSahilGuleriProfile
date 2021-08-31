@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: POM Hybrid Framerwork
+description: It's a combination of POM and a data-driven approach.
+img:
+redirect: https://github.com/ShivSahil/POMHybridFramerwork
 importance: 3
-category: work
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.

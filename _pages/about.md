@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
 
 profile:
   align: right
-  image: 1.jpg
+  image: profile-pic.jpg
   address: >
-   <p> Jallarian, Himachal Pradesh <p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

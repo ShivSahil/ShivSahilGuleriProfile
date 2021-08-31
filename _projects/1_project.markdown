@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Hybrid Framework
+description: It's a combination of the DataDriven and KeywordDriven approaches.
+img:
+redirect: https://github.com/ShivSahil/HybridFramework
 importance: 1
-category: work
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
