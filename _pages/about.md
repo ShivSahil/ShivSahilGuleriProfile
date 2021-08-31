@@ -14,11 +14,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a Software Test Analyst at Infosys with 5.8 years of experience in Automation testing using Selenium with Java using various frameworks, Functional Testing, and API testing. Was actively involved in framework development & maintenance and know Jenkins. Have worked in Banking Domain as well as Insurance domain.
 
-Born in Móstoles and raised in Toledo, Spain. I am an assistant professor at University Carlos III of Madrid (Spain) from February 2021.
-
-My research interests are computational electromagnetics and antenna measurements. My Ph.D. dissertation included the development and implementation of techniques (e.g. domain decomposition methods) to develop a finite element code with hp adaptivity and different element shapes.
-
-As a teaching assistant, I have imparted more than 400 teaching hours in different Telecommunication bachelor and master degrees in the last 8 years. As a researcher, I am part of 10 indexed papers and 26 conference papers. I have been a visiting scholar at The Ohio State University hosted by Prof. Jin-Fa Lee for seven months, and at the University of Macau for two months. I was a postdoctoral researcher at Saarland University from 2019 to 2020 with Prof. Dyczij-Edlinger.
+Check my GitHub repositories and YouTube channel.
 
 You can download my CV [Resume](assets/pdf/example_pdf.pdf){:target="\_blank"}.
