@@ -17,4 +17,5 @@ I am a Software Test Analyst at Infosys with 5.8 years of experience in Automati
 
 Check my GitHub repositories and YouTube channel.
 
-You can download my CV [Resume](assets/pdf/Sahil Guleri - Automation Test Engineer - 5.8 YoE.pdf){:target="\_blank"}.
+ <!-- %20 used for handling space in file names  -->
+You can download my CV [Resume](assets/pdf/Sahil%20Guleri%20-%20Automation%20Test%20Engineer%20-%205.8%20YoE.pdf){:target="\_blank"}.
