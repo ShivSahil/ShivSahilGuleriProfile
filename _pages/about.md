@@ -17,4 +17,4 @@ I am a Software Test Analyst at Infosys with 5.8 years of experience in Automati
 
 Check my GitHub repositories and YouTube channel.
 
-You can download my CV [Resume](assets/pdf/example_pdf.pdf){:target="\_blank"}.
+You can download my CV [Resume](assets/pdf/Resume - Shiv Guleri.pdf){:target="\_blank"}.
